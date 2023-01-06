@@ -5,7 +5,7 @@ Many many moons ago I had created a repository on "Big bot" which is a six-wheel
 If you are interested, the respository can be found here - https://github.com/AntarCreates/big_bot_description
 
 
-Great! In the demo, we looked at how to create a 3D map and how to visualize it. Now, let's take things a step further and explore some advanced techniques for enhancing our 3D mapping. There are many ways we can do this, and in this repository, we'll delve into some of the most effective ones. So, are you ready to take your 3D mapping skills to the next level? Let's get started!
+In the demo, we looked at how to create a 3D map and how to visualize it. Now, let's take things a step further and explore some advanced techniques for enhancing our 3D mapping. There are many ways we can do this, and in this repository, we'll delve into some of the most effective ones. So, are you ready to take your 3D mapping skills to the next level? Let's get started!
 
 *Note: I highly recommend you use Jupyter Notebbok using the VS Code extension for the examples, especially if you are just starting like me :)*
 
