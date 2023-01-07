@@ -13,11 +13,8 @@ In the demo, we looked at how to create a 3D map and how to visualize it. Now, l
 
 Notebook: cave_pcl_segmentation.ipynb
 
-In this notebook we take this, which is the octomap of a segment of the V-shape cave [ I took one arm of the V ] in depth[Z-axis]-based segmentation-
-
-[Screencast from 7-1-23 02:30:30 পূর্বাহ্ণ +06.webm](https://user-images.githubusercontent.com/81281780/211096601-45dcd330-478d-4997-92ed-9eb48975d4b4.webm)
-
-to this, which is a more generalistic and desired segmentation via Eucldean clustering  -
+In this notebook we take the .xyz file derived from an octomap of a segment of the V-shape cave [ I took one arm of the V ] in depth[Z-axis]-based segmentation to this, to a more generalistic and desired segmentation via RANSAC and Eucldean clustering.
 
 
-https://user-images.githubusercontent.com/81281780/211097018-b35cd1e0-4229-46e4-9362-ee36b4996615.mp4
+![pcl](https://user-images.githubusercontent.com/81281780/211139604-18d4307f-df7e-4dd3-a72c-ecabf9dd9379.gif)
+
